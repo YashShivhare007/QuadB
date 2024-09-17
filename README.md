@@ -60,7 +60,7 @@ Make sure you have the following installed:
 
 For a walkthrough of the project, please refer to the following video demonstration:
 
-[Video Demonstration](https://drive.google.com/file/d/1KXoFL4FpvTzhBl3N3OdAkDd61Kigulky/view?usp=drivesdk)
+[Video Demonstration](https://drive.google.com/file/d/1irO3lgesffR7F1lVhmvMRg3FVUDq8ba7/view?usp=sharing)
 
 ## Troubleshooting
 
