@@ -1,13 +1,6 @@
 # Project README
 
 ## About Project
-Here's a concise, formal, and engaging follow-up message you can send:
-
----
-
-**Subject:** Follow-up on Backend Internship Assignment Submission
-
-Dear Charul,
 
 The project includes a responsive frontend, light/dark mode functionality(as done in the reference website) using ReactJs,tailwindCSS and Vite, and the integration of the top 10 API entries with PostgreSQL, Node.js, and Express.js that refreshes after every 60 seconds(as was being done in the reference website) as outlined.
 
