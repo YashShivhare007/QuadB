@@ -1,5 +1,17 @@
 # Project README
 
+## About Project
+Here's a concise, formal, and engaging follow-up message you can send:
+
+---
+
+**Subject:** Follow-up on Backend Internship Assignment Submission
+
+Dear Charul,
+
+The project includes a responsive frontend, light/dark mode functionality(as done in the reference website) using ReactJs,tailwindCSS and Vite, and the integration of the top 10 API entries with PostgreSQL, Node.js, and Express.js that refreshes after every 60 seconds(as was being done in the reference website) as outlined.
+
+
 ## Overview
 
 This project consists of a frontend and a backend component. Below are the instructions to get both up and running on your local machine.
@@ -32,7 +44,7 @@ Make sure you have the following installed:
    npm run dev
    ```
 
-   The frontend should now be accessible at `http://localhost:3000` (or whichever port is specified in your configuration).
+   The frontend should now be accessible at `http://localhost:5173` (or whichever port is specified in the rerminal by vite).
 
 ### Backend
 
@@ -54,7 +66,7 @@ Make sure you have the following installed:
    nodemon index.js
    ```
 
-   The backend server should now be running and accessible at `http://localhost:5000` (or whichever port is specified in your configuration).
+   The backend server should now be running and accessible at `http://localhost:8000` (or whichever port is specified in your configuration).
 
 ## Video Demonstration
 
